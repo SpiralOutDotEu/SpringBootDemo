@@ -1,0 +1,6 @@
+
+.idea/
+SpringBootDemo.iml
+src/main/resources/static/
+src/main/resources/templates/
+target/
